@@ -13,6 +13,7 @@ Face aux défis uniques de nos régions, notamment le vieillissement de la popul
 - **Xavier Simacourbe** : Architecte technique senior, spécialiste des solutions innovantes.
 - **Cédric Martial** : Consultant UX & Design inclusif, expert en expérience utilisateur.
 - **Sébastien Jacobin** : Développeur senior, spécialiste du développement web accessible.
+- **Stéphanie Fonrose** : Facilitateur et lobbyiste pour l'accessibilité numérique, apportant une perspective unique en tant que personne non-voyante.
 
 ## Nos services
 
