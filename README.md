@@ -11,7 +11,7 @@ Face aux défis uniques de nos régions, notamment le vieillissement de la popul
 - **Tania Cadet-Marthe** : Dirigeante de numera11y, experte en stratégie d'entreprise et engagée pour un numérique inclusif aux Antilles[1].
 - **Axel Gold-Dalg** : Facilitateur et lobbyiste pour l'accessibilité numérique, apportant une perspective unique en tant que personne non-voyante[1].
 - **Xavier Simacourbe** : Architecte technique senior, spécialiste des solutions innovantes[1].
-- **Cédric** : Consultant UX & Design inclusif, expert en expérience utilisateur[1].
+- **Cédric Martial** : Consultant UX & Design inclusif, expert en expérience utilisateur[1].
 - **Sébastien Jacobin** : Développeur senior, spécialiste du développement web accessible[1].
 
 ## Nos services
