@@ -1,4 +1,4 @@
-# numera11y - L'accessibilité numérique aux Antilles
+# numera11y - L'accessibilité numérique (Antilles Guyane)
 
 ## À propos de numera11y
 
