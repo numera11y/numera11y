@@ -35,8 +35,8 @@ Ce dépôt contient nos projets open source et ressources liés à l'accessibili
 
 ### 3. Jeux et quiz sur l'accessibilité
 
-- [Quiz Accessibilité](https://www.numera11y.fr/jeux/qa11y/) : Testez vos connaissances sur l'accessibilité numérique.
-- [Quiz Culture Accessibilité](https://www.numera11y.fr/jeux/quiz-accessibilite/index-culture.html) : Approfondissez votre compréhension de la culture de l'accessibilité.
+- [Qa11y - Quiz Accessibilité](https://www.numera11y.fr/jeux/qa11y/) : Testez vos connaissances sur l'accessibilité numérique.
+- [Antilles Guyane - Quiz Accessibilité](https://www.numera11y.fr/jeux/quiz-accessibilite/index-culture.html) : Approfondissez votre compréhension de la culture de l'accessibilité aux Antilles Guyane.
 - [Numera Quest](https://www.numera11y.fr/jeux/numera-quest/) : Une aventure interactive pour découvrir l'accessibilité numérique.
 
 ## Notre engagement
